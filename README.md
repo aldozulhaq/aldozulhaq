@@ -1,3 +1,4 @@
+![](240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif)
 # 💫 About Me:
 🎮 Hi there, I'm Aldo Zulhaq, a game dev and tech artist from Indonesia! 💡<br><br>💻 Mixing code and creativity to craft virtual wonders, I'm a programmer by day, an artist by night. 🌟<br><br>🚀 Join me in my pixelated adventures as I code my way through digital realms and paint dreams into reality! 🎨🎮
 
