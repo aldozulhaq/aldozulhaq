@@ -33,3 +33,9 @@ Hi 👋, I am **Aldo Zulhaq** a student, aspiring game dev, and tech artist from
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aldozulhaq&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aldozulhaq&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 📘 My top projects
+
+<p align="left">
+    <a href="https://ihaten.itch.io/cypher-code"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=riorafifqi&repo=CodingGame&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+</p>
