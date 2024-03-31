@@ -26,7 +26,7 @@ Hi 👋, I am **Aldo Zulhaq** a student, aspiring game dev, and tech artist from
 </div>
 -->
 
-<img align="right" width="48%" src="89429966_p0_master1200.jpg"/>
+<img align="right" width="38%" src="89429966_p0_master1200.jpg"/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aldozulhaq&theme=dark&hide_border=false)<br/>
